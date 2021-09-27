@@ -4,6 +4,8 @@ Based around this video:
 
 [Mr. Volt video on Wheatley Crab with Raspberry PI Pico](https://www.youtube.com/watch?v=nXVsbjl3NYk)
 
+![Wheatley Crab video thumbnail](https://img.youtube.com/vi/nXVsbjl3NYk/hqdefault.jpg)
+
 ## STL Files
 
 [Google Drive link for STL files](https://drive.google.com/drive/folders/1YnTq7eoq7Siq_Cy5ROp6W6zi6yXtKDKN)
