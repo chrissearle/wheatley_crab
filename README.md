@@ -30,6 +30,9 @@ Images should be 240x240 pixels in .BMP format
 
 [Forum post with some portal core images](https://www.therpf.com/forums/threads/portal-2-personality-core.256138/#post-3924937)
 
+Tried using the recommended imagemagick convert - failed to give images that could be loaded.
+This conversion site worked: https://cloudconvert.com/jpg-to-bmp
+
 ## Pin Assignments
 
 * VCC - Pico 3.3V(out)
